@@ -1,15 +1,5 @@
 [
   {
-    "id": "ig_Dfwn_ZUDE3Q_2026-11-18",
-    "venueId": "94",
-    "venueName": "Ruma",
-    "title": "Special Aperitivo with Melted Cheese",
-    "date": "2026-11-18",
-    "time": "18:00",
-    "description": "A special autumn aperitivo at Ruma built around warm, melted, stringy cheeses, starting at 6 PM.",
-    "source": "https://www.instagram.com/p/Dfwn_ZUDE3Q/"
-  },
-  {
     "id": "ig_DfrkOebiO1y_2026-11-19",
     "venueId": "42",
     "venueName": "La Differenza",
@@ -26,7 +16,7 @@
     "title": "Slargo x Brado",
     "date": "2026-11-19",
     "time": "18:00",
-    "description": "Slargo hosts Brado for an evening with food by brado_roma, starting at 6 PM at Largo Ravenna 10.",
+    "description": "A collaboration night at Slargo, Largo Ravenna 10, with food by Brado_roma.",
     "source": "https://www.instagram.com/p/DfzonPnDHA7/"
   },
   {
@@ -36,7 +26,7 @@
     "title": "Tarot + Natural Wine",
     "date": "2026-11-19",
     "time": "18:00",
-    "description": "A personal tarot card reading with acclaimed reader Luna, paired with a glass of rosato Perdo La Testa from the Umbrian natural wine producer Centumbrie, for €20.",
+    "description": "Personal tarot card readings with acclaimed tarot reader Luna, paired with a glass of rosato Perdo La Testa from Centumbrie, for €20.",
     "source": "https://www.instagram.com/p/Df4nYPuDfm6/"
   },
   {
@@ -73,10 +63,10 @@
     "id": "ig_Dfz5LWZRZic_2026-11-19",
     "venueId": "9",
     "venueName": "La Berta",
-    "title": "Dopo la Muerte – Window Crew Indoor Edition",
+    "title": "Dopo la Muerte - Window Crew Indoor Edition",
     "date": "2026-11-19",
     "time": "20:00",
-    "description": "An indoor Window Crew night at La Berta where the Rome-based duo Dopo la Muerte spins rock'n'roll, punk, oi!, post-punk, new wave and dark sounds, with tapas and drinks.",
+    "description": "A vinyl DJ set by the Rome-based duo Dopo la Muerte, mixing rock'n'roll, punk, oi!, post-punk, new wave, synthwave and dark sounds, with tapas and beer at La Berta.",
     "source": "https://www.instagram.com/p/Dfz5LWZRZic/"
   },
   {
@@ -96,27 +86,27 @@
     "title": "Domingos en el Sofá: Daytime Latin American Selections by DJ Hernia",
     "date": "2026-11-22",
     "time": "12:00",
-    "description": "A Sunday afternoon daytime DJ set by Venezuelan underground hip hop veteran DJ Hernia at La Berta in Rome, with a second date on 13 December (12:00-15:00).",
+    "description": "Caracas-born DJ Hernia, a veteran of Venezuelan experimental and underground hip hop, plays a daytime Sunday set on La Berta's sofa, with a second date on 13 December.",
     "source": "https://www.instagram.com/p/Df47JvxxLTV/"
   },
   {
     "id": "ig_Dfzfk7lCtRS_2026-11-23",
     "venueId": "24",
     "venueName": "Pastificio San Lorenzo",
-    "title": "L'Altra Bolgheri - I Luoghi",
+    "title": "L'Altra Bolgheri: I Luoghi wine dinner",
     "date": "2026-11-23",
     "time": null,
-    "description": "A shared dinner for 20 guests with a tasting of five vintages, hosted with Stefano Granata and Paola De Fusco (I Luoghi), at a cost of 75€ per person with bookings via the link in bio.",
+    "description": "A 20-seat shared dinner with five vintages poured at the table, hosted with Stefano Granata and Paola De Fusco aka I Luoghi, at €75 per person.",
     "source": "https://www.instagram.com/p/Dfzfk7lCtRS/"
   },
   {
     "id": "ig_Df4ZHHZDLhs_2026-11-25",
     "venueId": "101",
     "venueName": "Frissón",
-    "title": "À Table: Frissón hosts Terso",
+    "title": "À TABLE: Frissón hosts Terso",
     "date": "2026-11-25",
     "time": "19:00",
-    "description": "A dinner at Frissón, hosted with the Molise producer Terso, featuring regional gastronomic specialties, a selection of fine wines, and a few surprises.",
+    "description": "A dinner at Frissón featuring Terso, a young culinary destination from Molise, with a selection of local gastronomic specialties and fine wines.",
     "source": "https://www.instagram.com/p/Df4ZHHZDLhs/"
   },
   {
@@ -136,7 +126,7 @@
     "title": "Troppo Frizzante feat. Cantina Ribelà",
     "date": "2026-11-26",
     "time": "19:00",
-    "description": "A Thursday evening at Semi di Vino with Cantina Ribelà wines, a vinyl set, and the restaurant's dishes.",
+    "description": "An evening at Semi di Vino with Cantina Ribelà natural wines, a vinyl set by Jhony, and dishes from the kitchen.",
     "source": "https://www.instagram.com/p/Df456axihe_/"
   },
   {
@@ -156,7 +146,7 @@
     "title": "Il Guercio Vertical Tasting with Sean O'Callaghan",
     "date": "2026-11-27",
     "time": null,
-    "description": "A four-course dinner paired with eight vintages of Il Guercio from Tenuta di Carleone, from 2017 to 2024, presented by winemaker Sean O'Callaghan (130 € per person, bookings via Instagram bio).",
+    "description": "A vertical tasting of all eight vintages of Il Guercio from Tenuta di Carleone, from 2017 to 2024, presented by winemaker Sean O'Callaghan and paired with a four-course menu (130 € per person, bookings to be announced).",
     "source": "https://www.instagram.com/p/Dfz_f0NlDz7/"
   },
   {
