@@ -1,75 +1,5 @@
 [
   {
-    "id": "ig_DfrkOebiO1y_2026-11-19",
-    "venueId": "42",
-    "venueName": "La Differenza",
-    "title": "Festa del Beaujolais Nouveau: four-hands dinner with Matteo Fermo",
-    "date": "2026-11-19",
-    "time": "18:00",
-    "description": "A Beaujolais Nouveau celebration at La Differenza with a four-hands dinner by Matteo Fermo, paired with wines from Impronta Vini, from 18:00 to 23:00.",
-    "source": "https://www.instagram.com/p/DfrkOebiO1y/"
-  },
-  {
-    "id": "ig_DfzonPnDHA7_2026-11-19",
-    "venueId": "68",
-    "venueName": "Slargo",
-    "title": "Slargo x Brado",
-    "date": "2026-11-19",
-    "time": "18:00",
-    "description": "A collaboration night at Slargo, Largo Ravenna 10, with food by Brado_roma.",
-    "source": "https://www.instagram.com/p/DfzonPnDHA7/"
-  },
-  {
-    "id": "ig_Df4nYPuDfm6_2026-11-19",
-    "venueId": "52",
-    "venueName": "Run by Nuns",
-    "title": "Tarot + Natural Wine",
-    "date": "2026-11-19",
-    "time": "18:00",
-    "description": "Personal tarot card readings with acclaimed tarot reader Luna, paired with a glass of rosato Perdo La Testa from Centumbrie, for €20.",
-    "source": "https://www.instagram.com/p/Df4nYPuDfm6/"
-  },
-  {
-    "id": "ig_DfjSckjuNRU_2026-11-19",
-    "venueId": "14",
-    "venueName": "Forno Conti",
-    "title": "Fête du Beaujolais",
-    "date": "2026-11-19",
-    "time": "18:30",
-    "description": "A Beaujolais wine tasting with two producers, Domaine Chermette and Domaine Louis-Claude Desvignes, paired with a four-course dinner for €65 per person.",
-    "source": "https://www.instagram.com/reel/DfjSckjuNRU/"
-  },
-  {
-    "id": "ig_DfrbV6eDZZb_2026-11-19",
-    "venueId": "43",
-    "venueName": "Bar Sogno",
-    "title": "One More Bite Episode 1: DJ Set by Basically Ugly Covers at Bar Sogno",
-    "date": "2026-11-19",
-    "time": "19:00",
-    "description": "Bar Sogno teams up with Sancho and Pizza Club for a DJ set by Basically Ugly Covers, with Sancho serving the pizza and Bar Sogno pouring the drinks.",
-    "source": "https://www.instagram.com/p/DfrbV6eDZZb/"
-  },
-  {
-    "id": "ig_Dfwu5OJDAg9_2026-11-19",
-    "venueId": "101",
-    "venueName": "Frissón",
-    "title": "Vigneróns ep. 03 with Cantina Giardino",
-    "date": "2026-11-19",
-    "time": "19:00",
-    "description": "A wine dinner at Frissón pairing four natural wines from Cantina Giardino, an Irpinia winery founded in 2003, with the kitchen's dishes, plus stories from the makers over a glass. Reservations via link in bio, walk-ins welcome.",
-    "source": "https://www.instagram.com/p/Dfwu5OJDAg9/"
-  },
-  {
-    "id": "ig_Dfz5LWZRZic_2026-11-19",
-    "venueId": "9",
-    "venueName": "La Berta",
-    "title": "Dopo la Muerte - Window Crew Indoor Edition",
-    "date": "2026-11-19",
-    "time": "20:00",
-    "description": "A vinyl DJ set by the Rome-based duo Dopo la Muerte, mixing rock'n'roll, punk, oi!, post-punk, new wave, synthwave and dark sounds, with tapas and beer at La Berta.",
-    "source": "https://www.instagram.com/p/Dfz5LWZRZic/"
-  },
-  {
     "id": "ig_DfpJRGrISIM_2026-11-20",
     "venueId": "82",
     "venueName": "Solovino",
@@ -86,7 +16,7 @@
     "title": "Domingos en el Sofá: Daytime Latin American Selections by DJ Hernia",
     "date": "2026-11-22",
     "time": "12:00",
-    "description": "Caracas-born DJ Hernia, a veteran of Venezuelan experimental and underground hip hop, plays a daytime Sunday set on La Berta's sofa, with a second date on 13 December.",
+    "description": "A daytime DJ set at La Berta in Rome, curated by Caracas DJ Hernia, with Latin American music from the Sunday sofa series, which also continues on December 13.",
     "source": "https://www.instagram.com/p/Df47JvxxLTV/"
   },
   {
@@ -100,13 +30,33 @@
     "source": "https://www.instagram.com/p/Dfzfk7lCtRS/"
   },
   {
+    "id": "ig_Df7Gn2WRwAy_2026-11-23",
+    "venueId": "9",
+    "venueName": "La Berta",
+    "title": "Dumatt Wine Tasting at La Berta",
+    "date": "2026-11-23",
+    "time": "19:00",
+    "description": "A wine tasting featuring Dumatt wines, with the producers sharing details about their work, discounts on bottles and glasses, and dishes paired with each wine, including vegetarian and vegan options.",
+    "source": "https://www.instagram.com/p/Df7Gn2WRwAy/"
+  },
+  {
+    "id": "ig_Df7Odo-opFE_2026-11-24",
+    "venueId": "82",
+    "venueName": "Solovino",
+    "title": "Corso Corsaro Extra: Aged Wines Tasting with Alessio (APEwineboxes)",
+    "date": "2026-11-24",
+    "time": "20:00",
+    "description": "An evening tasting of several mature wines, guided by Alessio of APEwineboxes, who will also talk about wine trends and which bottles are worth cellaring, for €50 with at least six wines and a final dish.",
+    "source": "https://www.instagram.com/p/Df7Odo-opFE/"
+  },
+  {
     "id": "ig_Df4ZHHZDLhs_2026-11-25",
     "venueId": "101",
     "venueName": "Frissón",
-    "title": "À TABLE: Frissón hosts Terso",
+    "title": "À Table: Frissón hosts Terso",
     "date": "2026-11-25",
     "time": "19:00",
-    "description": "A dinner at Frissón featuring Terso, a young culinary destination from Molise, with a selection of local gastronomic specialties and fine wines.",
+    "description": "A dinner dedicated to discovery and sharing, where Terso, a young culinary destination from Molise, brings a selection of local regional products to Frissón, paired with exceptional wines.",
     "source": "https://www.instagram.com/p/Df4ZHHZDLhs/"
   },
   {
@@ -126,7 +76,7 @@
     "title": "Troppo Frizzante feat. Cantina Ribelà",
     "date": "2026-11-26",
     "time": "19:00",
-    "description": "An evening at Semi di Vino with Cantina Ribelà natural wines, a vinyl set by Jhony, and dishes from the kitchen.",
+    "description": "A wine and vinyl night at Semi di Vino with Cantina Ribelà wines, a vinyl DJ set, and the restaurant's dishes.",
     "source": "https://www.instagram.com/p/Df456axihe_/"
   },
   {
@@ -158,6 +108,16 @@
     "time": null,
     "description": "A Soul and Blues night featuring Lopez e Strina at The Barber Shop Speakeasy, with table bookings available through the website.",
     "source": "https://www.instagram.com/p/DfxI39iq6hU/"
+  },
+  {
+    "id": "ig_Df66kOfgPie_2026-11-27",
+    "venueId": "2",
+    "venueName": "Ruvido",
+    "title": "RUVIDO goes to BARRO",
+    "date": "2026-11-27",
+    "time": "18:30",
+    "description": "Ruvido brings its kitchen to Barro, the Magazzino Alimentare at Via Carlo Pisacane 14, with Barro pouring the wine and Ruvido serving an à la carte menu.",
+    "source": "https://www.instagram.com/p/Df66kOfgPie/"
   },
   {
     "id": "ig_DffMFGMxDNf_2026-11-29",
