@@ -20,13 +20,33 @@
     "source": "https://www.instagram.com/p/Df47JvxxLTV/"
   },
   {
+    "id": "ig_DfmeadxDUp3_2026-11-22",
+    "venueId": "106",
+    "venueName": "Vigneto",
+    "title": "Per Bacco! Vigneto's 11th Birthday",
+    "date": "2026-11-22",
+    "time": "12:00",
+    "description": "Vigneto celebrates its 11th birthday with a non-stop day from noon to midnight, featuring food, wine by the glass at special prices, large-format bottles, specialty coffee, live sets and DJ sets at Piazza dei Condottieri in Rome.",
+    "source": "https://www.instagram.com/p/DfmeadxDUp3/"
+  },
+  {
+    "id": "ig_Dfwn3TWHMeK_2026-11-22",
+    "venueId": "103",
+    "venueName": "Vinificio",
+    "title": "Grande Festa del Vulcano Laziale",
+    "date": "2026-11-22",
+    "time": "18:00",
+    "description": "A big autumn celebration at Vinificio in Rome with 11 Vulcano Laziale winemakers pouring at a wine bar, food from DLR and Hosteria Amedeo in the kitchen, and tables for dinner by reservation.",
+    "source": "https://www.instagram.com/p/Dfwn3TWHMeK/"
+  },
+  {
     "id": "ig_Dfzfk7lCtRS_2026-11-23",
     "venueId": "24",
     "venueName": "Pastificio San Lorenzo",
-    "title": "L'Altra Bolgheri: I Luoghi wine dinner",
+    "title": "L'altra Bolgheri: I Luoghi wine dinner",
     "date": "2026-11-23",
     "time": null,
-    "description": "A 20-seat shared dinner with five vintages poured at the table, hosted with Stefano Granata and Paola De Fusco aka I Luoghi, at €75 per person.",
+    "description": "A shared-table dinner for 20 guests with a menu to share and five vintages poured alongside, hosted with Stefano Granata and Paola De Fusco aka I Luoghi, at 75€ per person.",
     "source": "https://www.instagram.com/p/Dfzfk7lCtRS/"
   },
   {
@@ -48,6 +68,26 @@
     "time": "20:00",
     "description": "A Tuesday evening wine tasting at Solovino with Alessio of APEwineboxes, opening aged bottles to explore where the value of a wine that can wait lies, for 50 € with at least 6 wines and a closing dish.",
     "source": "https://www.instagram.com/p/Df7Odo-opFE/"
+  },
+  {
+    "id": "ig_Df_5Nfyi24u_2026-11-25",
+    "venueId": "3",
+    "venueName": "Ciaparat",
+    "title": "Il Mercoleddio: The Hip Hop Crates vs Dizzy Tarantino DJ Set",
+    "date": "2026-11-25",
+    "time": "18:00",
+    "description": "A Wednesday DJ set at Enoteca Ciaparat in Rome, with Cataldo Senza Instagram and Dizzy Tarantino spinning 80s and 90s classic hip hop on vinyl, from 6 to 10 pm.",
+    "source": "https://www.instagram.com/p/Df_5Nfyi24u/"
+  },
+  {
+    "id": "ig_DgALCUtDP33_2026-11-25",
+    "venueId": "94",
+    "venueName": "Ruma",
+    "title": "Lés x Ruma: Special Aperitif & Gift Ideas",
+    "date": "2026-11-25",
+    "time": "18:00",
+    "description": "Ruma invites guests to an aperitif and a showcase of Lés Capsule creations, with small gift ideas and special pieces, at Via di Parione 13.",
+    "source": "https://www.instagram.com/p/DgALCUtDP33/"
   },
   {
     "id": "ig_Df4ZHHZDLhs_2026-11-25",
@@ -80,13 +120,23 @@
     "source": "https://www.instagram.com/p/Df7oc0Nihg5/"
   },
   {
+    "id": "ig_DgADfleMYDL_2026-11-26",
+    "venueId": "99",
+    "venueName": "Para Compartir",
+    "title": "Alfonso&Pedrajo x Para Compartir",
+    "date": "2026-11-26",
+    "time": null,
+    "description": "A collaboration evening with the Alfonso&Pedrajo winery at Para Compartir in Rome, with reservations required by phone.",
+    "source": "https://www.instagram.com/reel/DgADfleMYDL/"
+  },
+  {
     "id": "ig_DfpA0NVkdzK_2026-11-26",
     "venueId": "74",
     "venueName": "Sacro",
-    "title": "Giovedì Bolle: Bortolotti Sparkling Wine Pairing",
+    "title": "Giovedì Bolle: Sparkling Wine & Food Pairing Night",
     "date": "2026-11-26",
     "time": "18:30",
-    "description": "An evening at Sacro in Rome pairing four Bortolotti sparkling wines from Valdobbiadene with two dishes each, with reservations at 347 782 2805.",
+    "description": "A pairing evening at Sacro where four sparkling wines from Bortolotti Valdobbiadene are matched with two dishes each, served by the glass.",
     "source": "https://www.instagram.com/p/DfpA0NVkdzK/"
   },
   {
@@ -100,33 +150,23 @@
     "source": "https://www.instagram.com/p/Df456axihe_/"
   },
   {
-    "id": "ig_Dfwier0DN-s_2026-11-26",
-    "venueId": "99",
-    "venueName": "Para Compartir",
-    "title": "Alonso & Pedrajo x Para Compartir: Wine Pairing Dinner",
-    "date": "2026-11-26",
-    "time": "20:00",
-    "description": "A three-course dinner with three paired wines from the Rioja region of Spain, presented in an exclusive national debut, for 40 € per person.",
-    "source": "https://www.instagram.com/p/Dfwier0DN-s/"
-  },
-  {
     "id": "ig_Dfz_f0NlDz7_2026-11-27",
     "venueId": "21",
     "venueName": "SantoPalato",
     "title": "Il Guercio Vertical Tasting with Sean O'Callaghan",
     "date": "2026-11-27",
     "time": null,
-    "description": "A vertical tasting of all eight vintages of Il Guercio from Tenuta di Carleone, from 2017 to 2024, presented by winemaker Sean O'Callaghan and paired with a four-course menu (130 € per person, bookings to be announced).",
+    "description": "A vertical tasting of all eight vintages of Il Guercio di Tenuta di Carleone, from 2017 to 2024, presented by winemaker Sean O'Callaghan, with a four-course menu designed for the evening (130 € per person, reservations required).",
     "source": "https://www.instagram.com/p/Dfz_f0NlDz7/"
   },
   {
     "id": "ig_DfxI39iq6hU_2026-11-27",
     "venueId": "23",
     "venueName": "The Barber Shop Speakeasy",
-    "title": "Soul and Blues with Lopez e Strina",
+    "title": "Lopez e Strina - Soul and Blues",
     "date": "2026-11-27",
     "time": null,
-    "description": "A Soul and Blues night featuring Lopez e Strina at The Barber Shop Speakeasy, with table bookings available through the website.",
+    "description": "Soul and blues live performance by Lopez e Strina, with table reservations available through the venue's website.",
     "source": "https://www.instagram.com/p/DfxI39iq6hU/"
   },
   {
@@ -143,20 +183,30 @@
     "id": "ig_DffMFGMxDNf_2026-11-29",
     "venueId": "9",
     "venueName": "La Berta",
-    "title": "Tu Sei Balera: Sunday Lunch with DJ Set, Burraco and Cotillion",
+    "title": "Tu Sei Balera: Sunday lunch with DJ set and burraco",
     "date": "2026-11-29",
     "time": "12:00",
-    "description": "A slow Sunday lunch at La Berta with traditional food, wine, old-school dance music from DJ Tatiana (Non-DJ Selecta), a burraco tournament, prizes and cotillion, with free entry and no reservation needed (burraco requires booking).",
+    "description": "A relaxed Sunday lunch for the over-60s at La Berta, with traditional dishes, old-school dance music, a burraco tournament, prizes and a cotillion, free entry and no reservation needed (burraco requires booking).",
     "source": "https://www.instagram.com/p/DffMFGMxDNf/"
+  },
+  {
+    "id": "ig_Dfp22tsFSE8_2026-11-29",
+    "venueId": "105",
+    "venueName": "Sorso",
+    "title": "Dal Conero alla Cina",
+    "date": "2026-11-29",
+    "time": "12:00",
+    "description": "A themed lunch at Sorso bar in Rome, hosted by Andrea Sciamanna, with a menu that travels from the Conero coast to China. Reservations are by DM.",
+    "source": "https://www.instagram.com/p/Dfp22tsFSE8/"
   },
   {
     "id": "ig_DfmfVm7DdLN_2026-11-30",
     "venueId": "33",
     "venueName": "Santini",
-    "title": "Santini x Glory Pop: Pizza, Trippa & Rock'n'Roll",
+    "title": "Pizza, Trippa & Rock'n'Roll: four-hands dinner Santini x Glory Pop",
     "date": "2026-11-30",
     "time": null,
-    "description": "A four-hands dinner with Glory Pop from Milan, featuring a tasting menu in courses that showcases pizza in all its forms for €55.",
+    "description": "A four-hands tasting dinner at Santini in Rome, where the kitchens of Santini and Glory Pop Milano alternate courses across a menu built around pizza in all its forms.",
     "source": "https://www.instagram.com/p/DfmfVm7DdLN/"
   },
   {
