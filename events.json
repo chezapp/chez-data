@@ -1,45 +1,5 @@
 [
   {
-    "id": "ig_Df9X6heEX_B_2026-11-22",
-    "venueId": "74",
-    "venueName": "Sacro",
-    "title": "Sunday Brunch",
-    "date": "2026-11-22",
-    "time": null,
-    "description": "Sacro's weekly Sunday brunch, which the restaurant is reminding followers about for this weekend.",
-    "source": "https://www.instagram.com/p/Df9X6heEX_B/"
-  },
-  {
-    "id": "ig_Df47JvxxLTV_2026-11-22",
-    "venueId": "9",
-    "venueName": "La Berta",
-    "title": "Domingos en el Sofá: Daytime Latin American Selections by DJ Hernia",
-    "date": "2026-11-22",
-    "time": "12:00",
-    "description": "A daytime DJ set by Caracas hip hop veteran DJ Hernia at La Berta's sofa, part of a monthly Sunday series that runs until December 13, 2026.",
-    "source": "https://www.instagram.com/p/Df47JvxxLTV/"
-  },
-  {
-    "id": "ig_DfmeadxDUp3_2026-11-22",
-    "venueId": "106",
-    "venueName": "Vigneto",
-    "title": "Per Bacco! Vigneto's 11th Birthday",
-    "date": "2026-11-22",
-    "time": "12:00",
-    "description": "Vigneto celebrates its 11th birthday with a non-stop day from noon to midnight, featuring food, wine by the glass at special prices, large-format bottles, specialty coffee, live sets and DJ sets at Piazza dei Condottieri in Rome.",
-    "source": "https://www.instagram.com/p/DfmeadxDUp3/"
-  },
-  {
-    "id": "ig_Dfwn3TWHMeK_2026-11-22",
-    "venueId": "103",
-    "venueName": "Vinificio",
-    "title": "Grande Festa del Vulcano Laziale",
-    "date": "2026-11-22",
-    "time": "18:00",
-    "description": "A big autumn celebration at Vinificio in Rome with 11 Vulcano Laziale winemakers pouring at a wine bar, food from DLR and Hosteria Amedeo in the kitchen, and tables for dinner by reservation.",
-    "source": "https://www.instagram.com/p/Dfwn3TWHMeK/"
-  },
-  {
     "id": "ig_Dfzfk7lCtRS_2026-11-23",
     "venueId": "24",
     "venueName": "Pastificio San Lorenzo",
@@ -130,6 +90,16 @@
     "source": "https://www.instagram.com/reel/DgADfleMYDL/"
   },
   {
+    "id": "ig_DgDXMDyDJMz_2026-11-26",
+    "venueId": "72",
+    "venueName": "Prato",
+    "title": "Arnaldo Rossi Wine Tasting",
+    "date": "2026-11-26",
+    "time": "17:00",
+    "description": "Tuscan winemaker and innkeeper Arnaldo Rossi shares a selection of authentic bottles, paired with quick dishes served at the bar.",
+    "source": "https://www.instagram.com/p/DgDXMDyDJMz/"
+  },
+  {
     "id": "ig_DfpA0NVkdzK_2026-11-26",
     "venueId": "74",
     "venueName": "Sacro",
@@ -218,6 +188,16 @@
     "time": null,
     "description": "A four-hands tasting dinner at Santini in Rome, where the kitchens of Santini and Glory Pop Milano alternate courses across a menu built around pizza in all its forms.",
     "source": "https://www.instagram.com/p/DfmfVm7DdLN/"
+  },
+  {
+    "id": "ig_DgDL9tQRfp4_2026-12-02",
+    "venueId": "9",
+    "venueName": "La Berta",
+    "title": "Is Protesting Still a Right?",
+    "date": "2026-12-02",
+    "time": "19:00",
+    "description": "A public talk at La Berta in Rome on the state of the right to protest in Italy, with Paola Bevere (HUB4DEFENDERS), Camilla Siliotti (A Buon Diritto), Stefania N'Kombo José Teresa (Lunaria), moderated by journalist Annalisa Camilli.",
+    "source": "https://www.instagram.com/p/DgDL9tQRfp4/"
   },
   {
     "id": "ig_Df9hkbnDMdn_2026-12-06",
