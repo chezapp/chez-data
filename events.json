@@ -1,25 +1,5 @@
 [
   {
-    "id": "ig_Dfzfk7lCtRS_2026-11-23",
-    "venueId": "24",
-    "venueName": "Pastificio San Lorenzo",
-    "title": "L'altra Bolgheri: I Luoghi wine dinner",
-    "date": "2026-11-23",
-    "time": null,
-    "description": "A shared-table dinner for 20 guests with a menu to share and five vintages poured alongside, hosted with Stefano Granata and Paola De Fusco aka I Luoghi, at 75€ per person.",
-    "source": "https://www.instagram.com/p/Dfzfk7lCtRS/"
-  },
-  {
-    "id": "ig_Df7Gn2WRwAy_2026-11-23",
-    "venueId": "9",
-    "venueName": "La Berta",
-    "title": "Vini Dumatt Wine Tasting at La Berta",
-    "date": "2026-11-23",
-    "time": "19:00",
-    "description": "A wine tasting featuring Dumatt wines, with the winemakers Viviana and Michela sharing their work, the bar pouring only Dumatt wines with discounts, and a kitchen menu paired with each wine, including vegetarian and vegan options.",
-    "source": "https://www.instagram.com/p/Df7Gn2WRwAy/"
-  },
-  {
     "id": "ig_Df7Odo-opFE_2026-11-24",
     "venueId": "82",
     "venueName": "Solovino",
@@ -28,6 +8,26 @@
     "time": "20:00",
     "description": "A Tuesday evening wine tasting at Solovino with Alessio of APEwineboxes, opening aged bottles to explore where the value of a wine that can wait lies, for 50 € with at least 6 wines and a closing dish.",
     "source": "https://www.instagram.com/p/Df7Odo-opFE/"
+  },
+  {
+    "id": "ig_DgFC93MRyhK_2026-11-24",
+    "venueId": "9",
+    "venueName": "La Berta",
+    "title": "Acoustic Sunroom Fall Edition: On the Porch Old-Time Music",
+    "date": "2026-11-24",
+    "time": "21:00",
+    "description": "Matteo Maggi (fiddle and vocals) and Giovanni Caiati (5-string banjo) perform Appalachian old-time dances and songs at La Berta, the final show of the autumn live music series.",
+    "source": "https://www.instagram.com/p/DgFC93MRyhK/"
+  },
+  {
+    "id": "ig_DgFfERjt6v6_2026-11-25",
+    "venueId": "19",
+    "venueName": "Casa Manfredi",
+    "title": "Travel + Leisure Italy's Best Awards 2026 Evening at The St. Regis Rome",
+    "date": "2026-11-25",
+    "time": null,
+    "description": "CasaManfredi provides the dessert selection, including a multi-tier showpiece cake and mignon pastries, for the second edition of the Travel + Leisure Italy's Best Awards evening.",
+    "source": "https://www.instagram.com/p/DgFfERjt6v6/"
   },
   {
     "id": "ig_Df_5Nfyi24u_2026-11-25",
@@ -70,6 +70,16 @@
     "source": "https://www.instagram.com/p/Df9trgcDi7q/"
   },
   {
+    "id": "ig_Df9iKaho3jX_2026-11-25",
+    "venueId": "53",
+    "venueName": "Bibo",
+    "title": "TI AMO Piano Bar",
+    "date": "2026-11-25",
+    "time": "20:00",
+    "description": "A piano bar night at Bibo with live music and a sing-along atmosphere, running from 20:00 to 23:30, with table reservations recommended.",
+    "source": "https://www.instagram.com/p/Df9iKaho3jX/"
+  },
+  {
     "id": "ig_Df7oc0Nihg5_2026-11-26",
     "venueId": "103",
     "venueName": "Vinificio",
@@ -100,6 +110,16 @@
     "source": "https://www.instagram.com/p/DgDXMDyDJMz/"
   },
   {
+    "id": "ig_DgFyK5xjKGS_2026-11-26",
+    "venueId": "68",
+    "venueName": "Slargo",
+    "title": "Slargo w/ Sciccherie & (Coccio) Food + Gifts",
+    "date": "2026-11-26",
+    "time": "18:00",
+    "description": "An evening at Slargo with tasty bites by Sciccherie, a ceramics market and live performance by Coccio.lab, plus gifts.",
+    "source": "https://www.instagram.com/p/DgFyK5xjKGS/"
+  },
+  {
     "id": "ig_DfpA0NVkdzK_2026-11-26",
     "venueId": "74",
     "venueName": "Sacro",
@@ -120,6 +140,26 @@
     "source": "https://www.instagram.com/p/Df456axihe_/"
   },
   {
+    "id": "ig_DgGH0tFDERN_2026-11-26",
+    "venueId": "101",
+    "venueName": "Frissón",
+    "title": "Hi-Fi Nation - Ep.02",
+    "date": "2026-11-26",
+    "time": "19:00",
+    "description": "The second Hi-Fi Nation sound system night in Rome, featuring a line-up of Italian artists, running from 19:00 until closing at Frissón.",
+    "source": "https://www.instagram.com/p/DgGH0tFDERN/"
+  },
+  {
+    "id": "ig_DgGJs9YBtNx_2026-11-26",
+    "venueId": "52",
+    "venueName": "Run by Nuns",
+    "title": "Thanksgiving Dinner at Run by Nuns",
+    "date": "2026-11-26",
+    "time": "19:30",
+    "description": "A Thanksgiving feast by reservation only, with turkey and sage stuffing, roasted Camembert, autumn vegetables, pie, and wine.",
+    "source": "https://www.instagram.com/p/DgGJs9YBtNx/"
+  },
+  {
     "id": "ig_DgA13QhokPt_2026-11-26",
     "venueId": "4",
     "venueName": "Cecafumo",
@@ -128,6 +168,16 @@
     "time": "20:00",
     "description": "A guided blind tasting of five wines at Cecafumo Vineria, the 18th edition of the Sbicchierata, for 20 euros per person with mandatory reservation.",
     "source": "https://www.instagram.com/p/DgA13QhokPt/"
+  },
+  {
+    "id": "ig_DgF0U01RL-d_2026-11-26",
+    "venueId": "9",
+    "venueName": "La Berta",
+    "title": "Window Crew Indoor Edition: DJ set by Bea",
+    "date": "2026-11-26",
+    "time": "20:00",
+    "description": "Bea spins a selection of punk from 1978, 1980s new wave and Sixties sounds at La Berta, closing Window Crew's November lineup.",
+    "source": "https://www.instagram.com/p/DgF0U01RL-d/"
   },
   {
     "id": "ig_Dfz_f0NlDz7_2026-11-27",
@@ -180,6 +230,16 @@
     "source": "https://www.instagram.com/p/Dfp22tsFSE8/"
   },
   {
+    "id": "ig_DgF3s6eIOCR_2026-11-29",
+    "venueId": "104",
+    "venueName": "Sospeso",
+    "title": "ZERO ZERO OFF",
+    "date": "2026-11-29",
+    "time": "17:00",
+    "description": "A Sunday afternoon event at Sospeso featuring Domaine de la Petit Soeur, Les Maisons Brulees, Officina Consenso, and DJ set by Filippo Loy.",
+    "source": "https://www.instagram.com/p/DgF3s6eIOCR/"
+  },
+  {
     "id": "ig_DfmfVm7DdLN_2026-11-30",
     "venueId": "33",
     "venueName": "Santini",
@@ -200,6 +260,16 @@
     "source": "https://www.instagram.com/p/DgDL9tQRfp4/"
   },
   {
+    "id": "ig_DgF5mDftcn5_2026-12-03",
+    "venueId": "103",
+    "venueName": "Vinificio",
+    "title": "Testaccio Comedy Night Vol.3",
+    "date": "2026-12-03",
+    "time": "21:00",
+    "description": "Stand-up comedy night at Vinificio with Angelo Ritrovato (host), Cecilia Forastieri, Pietro Maccabei, Federica Gambino, Francesco Picchio and Angelo Curci; free entry, but table reservations are recommended.",
+    "source": "https://www.instagram.com/p/DgF5mDftcn5/"
+  },
+  {
     "id": "ig_Df9hkbnDMdn_2026-12-06",
     "venueId": "5",
     "venueName": "33 Giri",
@@ -208,5 +278,15 @@
     "time": "12:00",
     "description": "A relaxed Sunday at 33Giri with three artisanal panettoni to taste, a savory surprise, records by Carlo Scordo, and panettoni available to take home.",
     "source": "https://www.instagram.com/p/Df9hkbnDMdn/"
+  },
+  {
+    "id": "ig_DgFyTujxMIY_2026-12-08",
+    "venueId": "97",
+    "venueName": "Gastromario",
+    "title": "Brunch della Madonna",
+    "date": "2026-12-08",
+    "time": "11:30",
+    "description": "A special walk-in brunch (no reservations needed) from 11:30 to 15:00, with small plates, wine, spritz, and the bakery's breads and cakes.",
+    "source": "https://www.instagram.com/p/DgFyTujxMIY/"
   }
 ]
