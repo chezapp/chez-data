@@ -1,25 +1,5 @@
 [
   {
-    "id": "ig_Df7Odo-opFE_2026-11-24",
-    "venueId": "82",
-    "venueName": "Solovino",
-    "title": "Corso Corsaro Extra - Aging Wines Tasting with Alessio (APEwineboxes)",
-    "date": "2026-11-24",
-    "time": "20:00",
-    "description": "A Tuesday evening wine tasting at Solovino with Alessio of APEwineboxes, opening aged bottles to explore where the value of a wine that can wait lies, for 50 € with at least 6 wines and a closing dish.",
-    "source": "https://www.instagram.com/p/Df7Odo-opFE/"
-  },
-  {
-    "id": "ig_DgFC93MRyhK_2026-11-24",
-    "venueId": "9",
-    "venueName": "La Berta",
-    "title": "Acoustic Sunroom Fall Edition: On the Porch Old-Time Music",
-    "date": "2026-11-24",
-    "time": "21:00",
-    "description": "Matteo Maggi (fiddle and vocals) and Giovanni Caiati (5-string banjo) perform Appalachian old-time dances and songs at La Berta, the final show of the autumn live music series.",
-    "source": "https://www.instagram.com/p/DgFC93MRyhK/"
-  },
-  {
     "id": "ig_DgFfERjt6v6_2026-11-25",
     "venueId": "19",
     "venueName": "Casa Manfredi",
@@ -100,6 +80,16 @@
     "source": "https://www.instagram.com/reel/DgADfleMYDL/"
   },
   {
+    "id": "ig_DgHwwG2Ebvj_2026-11-26",
+    "venueId": "74",
+    "venueName": "Sacro",
+    "title": "Bortolotti Valdobbiadene Sparkling Wine Dinner",
+    "date": "2026-11-26",
+    "time": null,
+    "description": "A dinner at Sacro featuring sparkling wines from Bortolotti Valdobbiadene, with limited seats so booking is recommended.",
+    "source": "https://www.instagram.com/p/DgHwwG2Ebvj/"
+  },
+  {
     "id": "ig_DgDXMDyDJMz_2026-11-26",
     "venueId": "72",
     "venueName": "Prato",
@@ -118,16 +108,6 @@
     "time": "18:00",
     "description": "An evening at Slargo with tasty bites by Sciccherie, a ceramics market and live performance by Coccio.lab, plus gifts.",
     "source": "https://www.instagram.com/p/DgFyK5xjKGS/"
-  },
-  {
-    "id": "ig_DfpA0NVkdzK_2026-11-26",
-    "venueId": "74",
-    "venueName": "Sacro",
-    "title": "Giovedì Bolle: Sparkling Wine & Food Pairing Night",
-    "date": "2026-11-26",
-    "time": "18:30",
-    "description": "A pairing evening at Sacro where four sparkling wines from Bortolotti Valdobbiadene are matched with two dishes each, served by the glass.",
-    "source": "https://www.instagram.com/p/DfpA0NVkdzK/"
   },
   {
     "id": "ig_Df456axihe__2026-11-26",
@@ -210,6 +190,26 @@
     "source": "https://www.instagram.com/p/Df66kOfgPie/"
   },
   {
+    "id": "ig_DgIdVj1DBzm_2026-11-28",
+    "venueId": "101",
+    "venueName": "Frissón",
+    "title": "Listening Session: John Coltrane, A Love Supreme",
+    "date": "2026-11-28",
+    "time": "11:00",
+    "description": "A full-album listening session of John Coltrane's A Love Supreme, guided by Federico Zanghì, marking the centenary of Coltrane's birth.",
+    "source": "https://www.instagram.com/p/DgIdVj1DBzm/"
+  },
+  {
+    "id": "ig_DgIMlzqDaZk_2026-11-28",
+    "venueId": "43",
+    "venueName": "Bar Sogno",
+    "title": "Beaujolais Nouveau Festival with DJ Set by Valerio Moscatelli",
+    "date": "2026-11-28",
+    "time": "19:00",
+    "description": "A weekend celebrating Beaujolais Nouveau, with a preview at Enoteca Il Piccolo on Friday 27 and a festival with a DJ set by Valerio Moscatelli at Bar Sogno on Saturday 28.",
+    "source": "https://www.instagram.com/p/DgIMlzqDaZk/"
+  },
+  {
     "id": "ig_DffMFGMxDNf_2026-11-29",
     "venueId": "9",
     "venueName": "La Berta",
@@ -250,6 +250,16 @@
     "source": "https://www.instagram.com/p/DfmfVm7DdLN/"
   },
   {
+    "id": "ig_DgIEs0QjaL5_2026-11-30",
+    "venueId": "106",
+    "venueName": "Vigneto",
+    "title": "Degustazioni dal Basso: Piero Macciocca (La Visciola)",
+    "date": "2026-11-30",
+    "time": "20:30",
+    "description": "A tasting with winemaker Piero Macciocca of La Visciola in Piglio, who will share his story and pour his wines and the wines that shaped his path, at 90 euros per person with limited, booking-only seats.",
+    "source": "https://www.instagram.com/p/DgIEs0QjaL5/"
+  },
+  {
     "id": "ig_DgDL9tQRfp4_2026-12-02",
     "venueId": "9",
     "venueName": "La Berta",
@@ -258,6 +268,16 @@
     "time": "19:00",
     "description": "A public talk at La Berta in Rome on the state of the right to protest in Italy, with Paola Bevere (HUB4DEFENDERS), Camilla Siliotti (A Buon Diritto), Stefania N'Kombo José Teresa (Lunaria), moderated by journalist Annalisa Camilli.",
     "source": "https://www.instagram.com/p/DgDL9tQRfp4/"
+  },
+  {
+    "id": "ig_DgHldgWCDPy_2026-12-03",
+    "venueId": "128",
+    "venueName": "Moonshiner",
+    "title": "December Live Music Lineup",
+    "date": "2026-12-03",
+    "time": "20:30",
+    "description": "A monthly live music series with a different musician every Thursday in December, starting with Marta dell'Anno e il suo gruppo on December 3, followed by Ljuba de Angelis Ensemble on December 10 and Sam Ghezzi on December 17.",
+    "source": "https://www.instagram.com/p/DgHldgWCDPy/"
   },
   {
     "id": "ig_DgF5mDftcn5_2026-12-03",
