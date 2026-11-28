@@ -1,65 +1,5 @@
 [
   {
-    "id": "ig_Dfz_f0NlDz7_2026-11-27",
-    "venueId": "21",
-    "venueName": "SantoPalato",
-    "title": "Il Guercio Vertical Tasting with Sean O'Callaghan",
-    "date": "2026-11-27",
-    "time": null,
-    "description": "A vertical tasting of all eight vintages of Il Guercio di Tenuta di Carleone, from 2017 to 2024, presented by winemaker Sean O'Callaghan, with a four-course menu designed for the evening (130 € per person, reservations required).",
-    "source": "https://www.instagram.com/p/Dfz_f0NlDz7/"
-  },
-  {
-    "id": "ig_DfxI39iq6hU_2026-11-27",
-    "venueId": "23",
-    "venueName": "The Barber Shop Speakeasy",
-    "title": "Lopez e Strina - Soul and Blues",
-    "date": "2026-11-27",
-    "time": null,
-    "description": "Soul and blues live performance by Lopez e Strina, with table reservations available through the venue's website.",
-    "source": "https://www.instagram.com/p/DfxI39iq6hU/"
-  },
-  {
-    "id": "ig_DgNXtyTjZrg_2026-11-27",
-    "venueId": "111",
-    "venueName": "Mostro",
-    "title": "POLA DJ Set",
-    "date": "2026-11-27",
-    "time": null,
-    "description": "Pola, a Naples-based DJ, plays a set at Mostro blending downtempo, jazz, house and electro.",
-    "source": "https://www.instagram.com/p/DgNXtyTjZrg/"
-  },
-  {
-    "id": "ig_DgKM3jJjciT_2026-11-27",
-    "venueId": "120",
-    "venueName": "Rori",
-    "title": "Arnaud and Friends",
-    "date": "2026-11-27",
-    "time": "13:00",
-    "description": "A weekly Friday lunch at Rori with hot slices, where groups of 4 or more can book a table on the website.",
-    "source": "https://www.instagram.com/p/DgKM3jJjciT/"
-  },
-  {
-    "id": "ig_Df66kOfgPie_2026-11-27",
-    "venueId": "108",
-    "venueName": "Barro",
-    "title": "RUVIDO goes to BARRO",
-    "date": "2026-11-27",
-    "time": "18:30",
-    "description": "Ruvido brings its kitchen to Barro's food store in Via Carlo Pisacane 14, with Barro pouring the wine and Ruvido serving an à la carte menu.",
-    "source": "https://www.instagram.com/p/Df66kOfgPie/"
-  },
-  {
-    "id": "ig_DgM2cO3N9OF_2026-11-27",
-    "venueId": "43",
-    "venueName": "Bar Sogno",
-    "title": "Filippo Loy DJ Set",
-    "date": "2026-11-27",
-    "time": "19:00",
-    "description": "DJ set by Filippo Loy at Bar Sogno in Piazza Galeria 14, starting at 7 PM on Friday.",
-    "source": "https://www.instagram.com/p/DgM2cO3N9OF/"
-  },
-  {
     "id": "ig_DgIdVj1DBzm_2026-11-28",
     "venueId": "101",
     "venueName": "Frissón",
@@ -190,6 +130,16 @@
     "source": "https://www.instagram.com/p/DgNqDuKtiIE/"
   },
   {
+    "id": "ig_DgQbbOgHLF-_2026-11-30",
+    "venueId": "103",
+    "venueName": "Vinificio",
+    "title": "0% ADDED at Vinificio feat. ZEROZERO",
+    "date": "2026-11-30",
+    "time": "18:00",
+    "description": "A wine bar evening at Vinificio in Piazza dell'Emporio, Rome, with ZEROZERO and winemakers Juan Ramon Escoda, Laureano Serres, Nuria Renom, Oriol Artigas, Claudiu Dumea and Peter Kozma pouring at the bar.",
+    "source": "https://www.instagram.com/p/DgQbbOgHLF-/"
+  },
+  {
     "id": "ig_DgKvkfaxQ-W_2026-11-30",
     "venueId": "9",
     "venueName": "La Berta",
@@ -210,6 +160,16 @@
     "source": "https://www.instagram.com/p/DgIEs0QjaL5/"
   },
   {
+    "id": "ig_DgPhcYAnO6j_2026-12-02",
+    "venueId": "94",
+    "venueName": "Ruma",
+    "title": "Chef in Residence: Pietro La Rosa",
+    "date": "2026-12-02",
+    "time": null,
+    "description": "Palermitan chef Pietro La Rosa takes over the Ruma kitchen every evening from December 2 to 13, reinterpreting the restaurant's buffalo cheeses and meat from the lamaremmana_caseificio farm.",
+    "source": "https://www.instagram.com/p/DgPhcYAnO6j/"
+  },
+  {
     "id": "ig_DgDL9tQRfp4_2026-12-02",
     "venueId": "9",
     "venueName": "La Berta",
@@ -218,6 +178,26 @@
     "time": "19:00",
     "description": "A public talk at La Berta in Rome on the state of the right to protest in Italy, with Paola Bevere (HUB4DEFENDERS), Camilla Siliotti (A Buon Diritto), Stefania N'Kombo José Teresa (Lunaria), moderated by journalist Annalisa Camilli.",
     "source": "https://www.instagram.com/p/DgDL9tQRfp4/"
+  },
+  {
+    "id": "ig_DgPz6_LjYTc_2026-12-02",
+    "venueId": "101",
+    "venueName": "Frissón",
+    "title": "Frissón 5th Birthday",
+    "date": "2026-12-02",
+    "time": "21:00",
+    "description": "Frissón celebrates its fifth birthday with a four-day programme (2-5 December) of DJ sets, listening sessions, talks and guest performances, starting with Millie McKee (UK) on the 2nd.",
+    "source": "https://www.instagram.com/p/DgPz6_LjYTc/"
+  },
+  {
+    "id": "ig_DgP6_ZNiPtg_2026-12-03",
+    "venueId": "6",
+    "venueName": "Punto Fermo",
+    "title": "Mordi Roma x Punto Fermo: culinary and beverage meetup",
+    "date": "2026-12-03",
+    "time": "18:00",
+    "description": "A food and drink evening with Mordi Roma's food, Cantina Ribelà wines served in glasses, Eastside craft beer on tap, and a vinyl set by MOX.",
+    "source": "https://www.instagram.com/p/DgP6_ZNiPtg/"
   },
   {
     "id": "ig_DgNYMfVgsDP_2026-12-03",
@@ -268,6 +248,16 @@
     "time": "12:00",
     "description": "A relaxed Sunday at 33Giri with three artisanal panettoni to taste, a savory surprise, records by Carlo Scordo, and panettoni available to take home.",
     "source": "https://www.instagram.com/p/Df9hkbnDMdn/"
+  },
+  {
+    "id": "ig_DgLEgtNEZeP_2026-12-06",
+    "venueId": "172",
+    "venueName": "Muro",
+    "title": "MURO's 2nd Birthday Party with DJ Set by Amichetti",
+    "date": "2026-12-06",
+    "time": "13:00",
+    "description": "MURO celebrates its second birthday with a lunch with Cou Cou, Kadeh and Fiammetta, followed by a DJ set by Amichetti at Via Francesco Cigna 114/E, Turin.",
+    "source": "https://www.instagram.com/p/DgLEgtNEZeP/"
   },
   {
     "id": "ig_DgFyTujxMIY_2026-12-08",
